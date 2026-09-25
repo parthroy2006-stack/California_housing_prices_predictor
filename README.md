@@ -144,5 +144,4 @@ The models were compared using **10-fold cross-validation and RMSE**. Lower RMSE
 
 **Parth Roy**
 
-B.Tech — Metallurgical & Materials Engineering
-NIT Jamshedpur
+
